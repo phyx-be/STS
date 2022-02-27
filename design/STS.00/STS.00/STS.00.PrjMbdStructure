@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=STS.00.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\STS.00.PrjPcb
+Record=SubProject|SourceDocument=STS.00.MbsDoc|ProjectPath=..\STS.00.PrjPcb
+Record=DiagramHierarchy|SourceDocument=STS.00.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\STS.00.PrjPcb
+Record=SubProject|SourceDocument=STS.00.MbsDoc|ProjectPath=..\STS.00.PrjPcb
+Record=DiagramHierarchy|SourceDocument=STS.00.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\STS.00.PrjPcb
+Record=SubProject|SourceDocument=STS.00.MbsDoc|ProjectPath=..\STS.00.PrjPcb
