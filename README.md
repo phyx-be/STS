@@ -1,5 +1,6 @@
 # Space Shuttle Discovery
 This small kit card style solder kit uses a CR2032 coin cell battery to power 3 candle-style flickering LEDs.
+[![OSHWA](media/OSHWA_BE00007.png)](https://certification.oshwa.org/be000007.html)
 
 ## Assembly instructions
 - carefully depanelize the PCB by bending it
