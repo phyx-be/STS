@@ -2,6 +2,10 @@
 This small kit card style solder kit uses a CR2032 coin cell battery to power 3 candle-style flickering LEDs.
 [![OSHWA](media/OSHWA_BE00007.png)](https://certification.oshwa.org/be000007.html)
 
+## Get yours
+The kit is available from various retailers like [Adafruit](https://www.adafruit.com/product/5414), [Pimoroni](https://shop.pimoroni.com/collections/all?vendor=Phyx) and [Stem Support](https://stem-support.be/) and in our own [Lectronz store](https://lectronz.com/stores/phyx). 
+If you need a large quantity for events or educational purposes, the kit is also offered in bulk through [Stem Support](https://stem-support.be/) in Belgium or directly from us.
+
 ## Assembly instructions
 - carefully depanelize the PCB by bending it
 - optionally file or sand the rough edges
