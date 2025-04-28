@@ -11,6 +11,8 @@ This small kit card style solder kit uses a CR2032 coin cell battery to power 3 
 - pay attention to the polarity marks on the plane body and the baseplate
 - solder the mechanical joints on one side first. This will allow you to make easy corrections when it's not perfectly perpendicular
 
+A more detailed step-by-step assembly manual with pictures is available [on the Adafruit website](https://learn.adafruit.com/space-shuttle-discovery-solder-kit).
+
 ## REV 00
 First prototype to verify the mechanical design.
 
